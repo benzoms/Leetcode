@@ -8,4 +8,4 @@
 | **X** | Product of Array Except Self | Medium |
 | **X** | Valid Sudoku | Medium |
 | **X** | Encode and Decode Strings | Medium |
-| **X** | Longest Consecutive Sequence | Medium |
+| **03/26** | Longest Consecutive Sequence | Medium |
